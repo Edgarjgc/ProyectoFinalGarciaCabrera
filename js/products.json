@@ -1,0 +1,163 @@
+[
+  {
+    "id": "Clay Bar",
+    "titulo": "Clay Bar",
+    "imagen": "img/claybar.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 19.99
+  },
+  {
+    "id": "Leather Kit",
+    "titulo": "Leather Kit",
+    "imagen": "img/Leatherkit.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 64.95
+  },
+  {
+    "id": "Wheel Cleaner",
+    "titulo": "Wheel Cleaner Kit",
+    "imagen": "img/wheel&trimkit.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 39.99
+  },
+  {
+    "id": "Microfiber",
+    "titulo": "Microfiber Towel",
+    "imagen": "img/microfibertowel.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 9.99
+  },
+  {
+    "id": "Bucket",
+    "titulo": "Detailing Bucket",
+    "imagen": "img/detailingbucket.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 27.99
+  },
+
+  {
+    "id": "Fabric Cleaner",
+    "titulo": "Fabric Cleaner",
+    "imagen": "img/fabriccleaner.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 9.99
+  },
+  {
+    "id": "Odor Eliminator",
+    "titulo": "Ghosted Odor Eliminator",
+    "imagen": "img/odoreliminator.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 14.99
+  },
+  {
+    "id": "Total Interior",
+    "titulo": "Total Interior New Car Scent",
+    "imagen": "img/totalinterior.jpg",
+    "category": {
+      "nombre": "Products",
+      "id": "products"
+    },
+    "precio": 27.99
+  },
+  {
+    "id": "Full Detailing",
+    "titulo": "Full Detailing",
+    "imagen": "img/fulldetail.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 149.99
+  },
+  {
+    "id": "Interior Detailing",
+    "titulo": "Interior Detailing",
+    "imagen": "img/interiordetail.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 84.99
+  },
+  {
+    "id": "Window Coating",
+    "titulo": "Window Coating",
+    "imagen": "img/Windowcoating.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 45.99
+  },
+  {
+    "id": "Paint Correction",
+    "titulo": "Paint Correction",
+    "imagen": "img/paintcorrection.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 249.99
+  },
+  {
+    "id": "Engaine Detaling",
+    "titulo": "Engaine Detaling",
+    "imagen": "img/enginedetail.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 29.99
+  },
+  {
+    "id": "Headlight Restoration",
+    "titulo": "Headlight Restoration",
+    "imagen": "img/headlightrestoration.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 29.99
+  },
+  {
+    "id": "Ceramic Coating",
+    "titulo": "Ceramic coating",
+    "imagen": "img/coating.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 699.99
+  },
+  {
+    "id": "Clay & Polish",
+    "titulo": "Clay & Polish",
+    "imagen": "img/clay&polish.jpg",
+    "category": {
+      "nombre": "Services",
+      "id": "services"
+    },
+    "precio": 99.99
+  }
+]
