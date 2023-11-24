@@ -141,6 +141,4 @@ function buyCart() {
   cartProductsContainer.classList.add("disabled");
   cartActionsContainer.classList.add("disabled");
   purchasedCartContainer.classList.remove("disabled");
-
-  alert("Thank you for your purchase!");
 }
